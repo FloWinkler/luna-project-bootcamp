@@ -1,8 +1,7 @@
 <h3 align="center">
- 
-    
+    <samp>
     <b><a>LUNA RESTAURANT REVIEW APP</a></b>
-
+    <samp/>
 </h3>
 
 The backend for this project is no longer running since it was developed as a bootcamp project for learning purposes.
