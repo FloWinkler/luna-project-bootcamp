@@ -1,11 +1,7 @@
 <h3 align="center">
  
     
-    <b>
-      <a>⭐⭐⭐⭐⭐</a>
-        <br>
-      <a>LUNA RESTAURANT REVIEW APP</a>
-    </b>
+    <b><a>LUNA RESTAURANT REVIEW APP</a></b>
 
 </h3>
 
