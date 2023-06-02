@@ -1,10 +1,12 @@
 <h3 align="center">
   <samp>
-    <b><a>LUNA RESTAURANT REVIEW APP ⭐⭐⭐⭐⭐</a></b>
+    
+    <b><a>⭐⭐⭐⭐⭐</a></b>
+    <b><a>LUNA RESTAURANT REVIEW APP</a></b>
   </samp>
 </h3>
 
-FYI: The backend for this project is no longer running since it was developed as a bootcamp project for learning purposes.
+The backend for this project is no longer running since it was developed as a bootcamp project for learning purposes.
 
 Collaborated in a team to build a Full-Stack application in less than one week.
 The Project involved various features, such as user access, models (restaurant, review, user), authentication, search, and bonus features. It emphasized clean code, documentation, Docker integration, deployment, permissions, and SMTP service for emailing.
