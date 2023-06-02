@@ -1,7 +1,6 @@
 <h3 align="center">
-    <samp>
+    
     <a>⭐⭐⭐⭐⭐</a>
-    <samp/>
 </h3>
 <h3 align="center">
     <samp>
