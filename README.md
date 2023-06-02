@@ -1,10 +1,10 @@
-<a align="center">
+<h3 align="center">
     
    ⭐⭐⭐⭐⭐
-</a>
+</h3>
 <h3 align="center">
     <samp>
-    <b><a>LUNA RESTAURANT REVIEW APP</a></b>
+    <b><a>⭐⭐⭐⭐⭐<br>LUNA RESTAURANT REVIEW APP</a></b>
     <samp/>
 </h3>
 
