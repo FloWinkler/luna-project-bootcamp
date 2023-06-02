@@ -1,7 +1,7 @@
-<h3 align="center">
+<a align="center">
     
    ⭐⭐⭐⭐⭐
-</h3>
+</a>
 <h3 align="center">
     <samp>
     <b><a>LUNA RESTAURANT REVIEW APP</a></b>
