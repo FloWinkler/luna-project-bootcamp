@@ -1,9 +1,8 @@
 <h3 align="center">
     <samp>
-    <b><a>⭐⭐⭐⭐⭐</a></b>
+    <a>⭐⭐⭐⭐⭐</a>
     <samp/>
 </h3>
-    
 <h3 align="center">
     <samp>
     <b><a>LUNA RESTAURANT REVIEW APP</a></b>
