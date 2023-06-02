@@ -26,5 +26,5 @@ The Project involved various features, such as user access, models (restaurant, 
     <img src="https://github.com/FloWinkler/luna-project-bootcamp/assets/135036974/27197120-67b3-443a-b657-f41598ef81a1" align="center"     /><br><br>
     <img src="https://github.com/FloWinkler/luna-project-bootcamp/assets/135036974/c10f3326-ecb0-464e-9592-23db25c1526c" align="center"     /><br><br>
     <img src="https://github.com/FloWinkler/luna-project-bootcamp/assets/135036974/48c4e5de-0f02-4999-a330-6ded973ca63e" align="center"     /><br><br>
-    <img src="https://github.com/FloWinkler/luna-project-bootcamp/assets/135036974/f906e70d-e072-4e64-adab-819695019c22" align="center"     /><br><br>
+    <img src="https://github.com/FloWinkler/luna-project-bootcamp/assets/135036974/f906e70d-e072-4e64-adab-819695019c22" align="center"     />
 
