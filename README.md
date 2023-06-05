@@ -10,7 +10,7 @@
     <samp/>
 </h3>
 
-The backend for this project is no longer running since it was developed as a bootcamp project for learning purposes.
+ℹ️ The backend for this project is no longer running since it was developed as a bootcamp project for learning purposes.
 
 Collaborated in a team to build a Full-Stack application in less than one week.
 The Project involved various features, such as user access, models (restaurant, review, user), authentication, search, and bonus features. It emphasized clean code, documentation, Docker integration, deployment, permissions, and SMTP service for emailing.
